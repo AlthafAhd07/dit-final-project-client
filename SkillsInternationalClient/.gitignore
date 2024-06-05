@@ -1,0 +1,51 @@
+# Build output
+bin/
+obj/
+
+# User-specific files (Visual Studio)
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (JetBrains Rider)
+*.DotSettings.user
+
+# Package and project configuration
+packages/
+*.lock.json
+
+# IDE-specific files (Visual Studio)
+.vs/
+.vs
+*.pidb
+*.opendb
+
+# IDE-specific files (JetBrains Rider)
+.idea/
+*.sln.iml
+*.csproj.DotSettings
+
+# Designer files (can regenerate)
+*.Designer.cs
+
+# Resharper files
+_ReSharper*/
+
+# Test Results
+TestResults/
+[Tt]est[Rr]esult*
+
+# NuGet local cache
+%USERPROFILE%\.nuget\packages
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Windows shortcuts
+*.lnk
+
+# Other temporary files
+*.tmp
+*.log
+*.bak
